@@ -3,6 +3,7 @@ Bu proje, .NET üzerinde In-Memory Caching ve Distributed Caching (Redis) yönte
 
 📁 Proje Yapısı
 ✅Solution içerisinde iki ana proje bulunmaktadır:
+
 ✅InMemory.Caching: Uygulamanın çalıştığı sunucunun RAM'ini kullanarak veri saklama yöntemi.
 ✅Distributed.Caching: Bağımsız bir veri deposu (örneğin Redis) kullanarak, farklı instance'lar arasında paylaşılan veri saklama yöntemi.
 
